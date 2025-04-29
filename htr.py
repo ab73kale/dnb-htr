@@ -1,3 +1,5 @@
+pip install opencv-python pillow
+
 import cv2
 import os
 from PIL import Image
